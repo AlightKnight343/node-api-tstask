@@ -4,9 +4,9 @@ const data = require('./data.json')
 router.get('/', (req, res)=>{
     res.send(`
         Guide to using the api:
-        /api - returns a list of all the endpoints
-        /api/:country [UK, USA, CANADA, INDIA, FRANCE]
-        /api/country/:x/state/:y 
+        / - returns a list of all the endpoints
+        /country/:country [UK, USA, CANADA, INDIA, FRANCE]
+        /country/:x/state/:y 
         [USA: California || Texas || Florida || Washington || Pennsylvania]
         [India: Maharashtra || Karnataka || Kerala || Haryana || Chattisgarh]
         [UK: England || Scotland || Wales || Ireland]
