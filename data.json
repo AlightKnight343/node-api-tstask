@@ -1,0 +1,159 @@
+{
+    "uk": 
+    {
+        "name":"United Kingdom",
+        "id":"1",
+        "population": "67.1 million",
+        "states":[{
+            "name": "England",
+            "id": "1.1",
+            "description": "Testing"
+        },
+        {
+            "name": "Scotland",
+            "id": "1.2",
+            "description": "Testing"
+        },
+        {
+            "name": "Wales",
+            "id": "1.3",
+            "description": "Testing"
+        },
+        {
+            "name": "Ireland",
+            "id": "1.4",
+            "description": "Testing"
+        }
+    ]
+    },
+    "india":
+    {
+        "name":"India",
+        "id":"2",
+        "population": "1.4 billion",
+        "states":[{
+            "name": "Maharashtra",
+            "id": "2.1",
+            "description": "Testing"
+        },
+        {
+            "name": "Karnataka",
+            "id": "2.2",
+            "description": "Testing"
+        },
+        {
+            "name": "Kerala",
+            "id": "2.3",
+            "description": "Testing"
+        },
+        {
+            "name": "Haryana",
+            "id": "2.4",
+            "description": "Testing"
+        },
+        {
+            "name": "Chattisgarh",
+            "id": "2.5",
+            "description": "Testing"
+        }
+    ]
+    },
+
+    "usa":     
+        {
+        "name":"United States Of America",
+        "id":"3",
+        "population": "329 million",
+        "states":[{
+            "name": "California",
+            "id": "3.1",
+            "description": "Testing"
+        },
+        {
+            "name": "Texas",
+            "id": "3.2",
+            "description": "Testing"
+        },
+        {
+            "name": "Florida",
+            "id": "2.3",
+            "description": "Testing"
+        },
+        {
+            "name": "Washington",
+            "id": "2.4",
+            "description": "Testing"
+        },
+        {
+            "name": "Pennsylvania",
+            "id": "2.5",
+            "description": "Testing"
+        }
+    ]
+    },
+
+    "canada":     {
+        "name":"Canada",
+        "id":"4",
+        "population": "38 million",
+        "states":[{
+            "name": "Ontario",
+            "id": "4.1",
+            "description": "Testing"
+        },
+        {
+            "name": "Quebec",
+            "id": "4.2",
+            "description": "Testing"
+        },
+        {
+            "name": "Alberta",
+            "id": "4.3",
+            "description": "Testing"
+        },
+        {
+            "name": "Columbia",
+            "id": "4.4",
+            "description": "Testing"
+        },
+        {
+            "name": "Manitoba",
+            "id": "4.5",
+            "description": "Testing"
+        }
+    ]
+    },
+
+    "france":    
+    {
+        "name":"France",
+        "id":"5",
+        "population": "67.4 million",
+        "states":[{
+            "name": "Rhone",
+            "id": "5.1",
+            "description": "Testing"
+        },
+        {
+            "name": "Picardy",
+            "id": "5.2",
+            "description": "Testing"
+        },
+        {
+            "name": "Corsica",
+            "id": "5.3",
+            "description": "Testing"
+        },
+        {
+            "name": "Brittany",
+            "id": "5.4",
+            "description": "Testing"
+        },
+        {
+            "name": "Burgundy",
+            "id": "5.5",
+            "description": "Testing"
+        }
+    ]
+    }
+}
